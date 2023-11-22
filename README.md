@@ -1,1 +1,1 @@
-# mc504
+Repositório da disciplina Sistemas Operacionais
